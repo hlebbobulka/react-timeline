@@ -1,4 +1,4 @@
-##React timeline
+## React timeline
 
 `yarn install`
 
